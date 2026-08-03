@@ -1,2 +1,0 @@
-# Algorithm-Design-Assignment
-งานโปรแกรม
